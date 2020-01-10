@@ -33,7 +33,7 @@ Pause >NUL
 goto :eof
 :NoAdmin
 ECHO.
-ECHO"  - You must run this file in Administrator mode"
+ECHO"  - You must run this script in Administrator mode"
 ECHO.
 ECHO.
 ECHO.
